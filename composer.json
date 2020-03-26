@@ -1,9 +1,9 @@
 {
-  "name": "jenkins-khan/jenkins-api",
+  "name": "haouach/jenkins-php",
   "type": "library",
   "description": "Jenkins PHP API",
   "keywords": ["jenkins", "api"],
-  "homepage": "https://github.com/jenkins-khan/jenkins-php-api",
+  "homepage": "https://github.com/haouach/jenkins-php",
   "license": "MIT",
   "autoload": {
     "psr-4": {
@@ -18,8 +18,8 @@
   },
   "authors": [
     {
-      "name": "jenkins-khan",
-      "homepage": "https://github.com/jenkins-khan/jenkins-php-api"
+      "name": "haouach",
+      "homepage": "https://github.com/haouach/jenkins-php"
     }
   ]
 }
